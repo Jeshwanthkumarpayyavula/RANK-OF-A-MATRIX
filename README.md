@@ -20,8 +20,9 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 End the program
 ## Program:
 ```
-Developed By:  Jeshwanth kumar
-Reg.No:212223240114
+#To write a python program to find the rank of a matrix
+#Developed By:  Jeshwanth kumar
+#Reg.No:212223240114
 
 
 import numpy as np
