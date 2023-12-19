@@ -1,4 +1,6 @@
 # RANK-OF-A-MATRIX
+# Name:Jeshwanth Kumar
+# Reg.No:212223240114
 ## Aim:
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
@@ -17,13 +19,19 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ### Step 4:
 End the program
 ## Program:
-```import numpy as np
+```
+Developed By:  Jeshwanth kumar
+Reg.No:212223240114
+
+
+import numpy as np
 a=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 rank=np.linalg.matrix_rank(a)
 print(rank)
 ```
 ## Output:
-![image](https://github.com/Jeshwanthkumarpayyavula/RANK-OF-A-MATRIX/assets/145742402/778404a7-9bba-42e1-843c-c05a7d9d05b0)
+![image](https://github.com/Jeshwanthkumarpayyavula/RANK-OF-A-MATRIX/assets/145742402/25a21e9c-e22a-41df-bc47-c665109551d1)
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
